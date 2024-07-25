@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Hollow knight</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>HOLLOW KNIGHT</h1>
+    <p>
+        Hollow Knight es un videojuego de acción y aventura, el juego se ambienta en el mundo subterráneo de Hallownest, un reino en ruinas lleno de criaturas fantásticas y desafiantes enemigos.</p>
+    <h2>FINALES</h2>
+             <ul>
+                   <h2>Final 1: Hollow Knight</h2>
+                   <li>Requisitos:</li>
+                   <h2></h2>       
+                   <li>No haber obtenido el Corazón del Vacío.</li>
+                   <li>Derrotar al Hollow Knight.</li>
+                   <h2>Final 2: Hermanos sellados</h2>
+                   <li>Requisitos:</li>
+                   <h2></h2>
+                   <li>Poseer Corazón del Vacío.</li>
+                   <li>Derrotar al Hollow Knight con ayuda de Honet.</li>
+                   <h2>Final 3: No más sueños</h2>
+                   <li>Requisitos:</li>
+                   <h2></h2>
+                   <li>Poseer Corazón del Vacío</li>
+                   <li>Derrotar a El Destello</li>
+                   <h2>Final 4: Acepta el Vacío</h2>
+                   <li>Requisitos:</li>
+                   <h2></h2>
+                   <li>Completar todos los Panteones</li> 
+                   <li>Derrotar al Absoluto Destello</li>
+                   <h2>Final 5: Flor Delicada</h2>
+                   <li>Requisitos:</li>
+                   <h2></h2>
+                   <li>Completar todos los Panteones</li>
+                   <li>Derrotar al Absoluto Destello</li>
+                   <li>Dar la Flor delicada al Buscador de Dioses</li>
+                   <h2>Final Extra: Cambio de era</h2>
+                   <li>Requisitos:</li>
+                   <h2></h2>
+                   <li>Tras cualquiera de los otros finales, si el jugador ha completado la historia del Señor Seta hablando con él en todos los lugares donde aparece, habrá una cinemática extra donde se verá al Señor Seta volando por los cielos.Después la cinemática se mostrará en pantalla la palabra CONTINUARÁ.</li>
+             </ul>
+     <img src="hollow_knight.jpg" alt="Image 1">
+</body>
+</html>
